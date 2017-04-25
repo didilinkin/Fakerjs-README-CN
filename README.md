@@ -63,57 +63,57 @@ This will interpolate the format string with the value of methods `name.lastName
 
 [http://marak.github.io/faker.js/](http://marak.github.io/faker.js/)
 
-### API Methods
+## API Methods - API 方法
 
-* address
-  * zipCode
-  * city
-  * cityPrefix
-  * citySuffix
-  * streetName
-  * streetAddress
-  * streetSuffix
-  * streetPrefix
-  * secondaryAddress
-  * county
-  * country
-  * countryCode
-  * state
-  * stateAbbr
-  * latitude
-  * longitude
-* commerce
-  * color
-  * department
-  * productName
-  * price
-  * productAdjective
-  * productMaterial
-  * product
-* company
-  * suffixes
-  * companyName
-  * companySuffix
-  * catchPhrase
-  * bs
-  * catchPhraseAdjective
-  * catchPhraseDescriptor
-  * catchPhraseNoun
-  * bsAdjective
-  * bsBuzz
-  * bsNoun
-* database
-  * column
-  * type
-  * collation
-  * engine
-* date
-  * past
-  * future
-  * between
-  * recent
-  * month
-  * weekday
+* ### address - 地址
+    * ##### zipCode - 邮政编码
+    * ##### city - 城市
+    * ##### cityPrefix - 城市前缀
+    * ##### citySuffix - 城市后缀
+    * ##### streetName - 街道名称
+    * ##### streetAddress - 街道地址
+    * ##### streetSuffix - 街道后缀
+    * ##### streetPrefix - 街道前缀
+    * ##### secondaryAddress - 次要地址
+    * ##### county - 县
+    * ##### country - 国家
+    * ##### countryCode - 国家编码
+    * ##### state - 州
+    * ##### stateAbbr - 州缩写
+    * ##### latitude - 纬度
+    * ##### longitude - 经度
+* ### commerce - 商业
+    * ##### color - 颜色
+    * ##### department - 部门
+    * ##### productName - 产品名称
+    * ##### price - 价格
+    * ##### productAdjective - 产品形容词
+    * ##### productMaterial - 产品材料
+    * ##### product - 产品
+* ### company - 公司
+    * ##### suffixes - 后缀
+    * ##### companyName - 公司名
+    * ##### companySuffix - 公司后缀
+    * ##### catchPhrase - 公司标语
+    * ##### bs - ?
+    * ##### catchPhraseAdjective - 标语形容词
+    * ##### catchPhraseDescriptor - 标语描述
+    * ##### catchPhraseNoun - 标语名词
+    * ##### bsAdjective - bs形容词
+    * ##### bsBuzz - bs蜂鸣器
+    * ##### bsNoun - bs名词
+* ### database - 数据库
+    * ##### column - 列
+    * ##### type - 类型
+    * ##### collation - 整理
+    * ##### engine - 引擎
+* ### date - 日期
+    * ##### past - 过去
+    * ##### future - 未来
+    * ##### between - 之间
+    * ##### recent - 最近
+    * ##### month - 月
+    * ##### weekday - 工作日
 * fake
 * finance
   * account
